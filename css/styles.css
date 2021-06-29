@@ -1,0 +1,166 @@
+body {
+    font-family: "Open Sans";
+    background-color: #ededed;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 6rem;
+}
+
+.item {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.item-header { 
+    position: relative;
+    background-color: rgba(47, 47, 47, 0.9); /* #2f2f2f*/
+    color: #d5d5d5;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    top: 4rem;
+}
+
+.item h3 {
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+    line-height: 2rem;
+}
+
+.item-description {
+    background-color: #ffffff;
+    position: relative;
+    top: -1.6rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: 0rem 0.6rem 3.5rem #888888;
+}
+
+.sandals-logo {
+    display: flex;
+    margin: 0 25rem;
+    justify-content: center;
+    border-bottom: 0.1rem groove rgb(0,0,0,0.1);
+    padding-bottom: 1rem;
+}
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 2rem;
+    line-height: 2.4rem;
+}
+
+.sandals-resort-image {
+    width: 100%;
+    height: auto;
+    margin-top: 3rem;
+    margin-bottom: 6rem;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 2rem;
+    margin: auto;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 1rem;
+    margin: auto;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 0.7rem;
+}
+
+p {
+    font-size: 0.6rem;
+    text-align: center;
+    margin-left: 22rem;
+    margin-right: 22rem;
+    line-height: 1.5rem;
+}
+
+.option-description {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: auto;
+}
+
+.dunns-river-image {
+    margin-top: 3rem;
+    width: 100%;
+    height: auto;
+}
+
+.information {
+    position: relative;
+    top: -34rem;
+    
+}
+
+.infomation-container {
+    display: flex;
+    background-color: #ffffff;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+.information-item {
+    margin-left: 3rem;
+    margin-right: 5rem;
+}
+
+.information-item h2{
+    padding-top: 2rem;
+    font-size: 1.3rem;
+}
+
+.information-item h3{
+    margin: auto;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    color: #373737;
+    font-weight: normal;
+}
+
+.information-item p{
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.spring-image {
+    height: 15rem;
+    width: 100%;
+}
+
+.image-header {
+    position: relative;
+    text-align: center;
+    top: -82rem;
+    color: white;
+}
+
+.image-header h1 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.image-header h2 {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.image-header h3 {
+    font-size: 0.9rem;
+}
